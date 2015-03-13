@@ -1,2 +1,2 @@
 # selection-game
-A simple game in Android 
+Personal project started to learn Android SDK 
