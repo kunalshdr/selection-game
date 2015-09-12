@@ -1,1 +1,1 @@
-A selection game Android app. 
+A selection game on Android platform. 
