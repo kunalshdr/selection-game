@@ -1,1 +1,1 @@
-A simple selection game made to learn Android SDK 
+A selection game Android app. 
